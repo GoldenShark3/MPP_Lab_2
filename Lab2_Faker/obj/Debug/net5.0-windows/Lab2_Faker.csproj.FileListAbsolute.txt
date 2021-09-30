@@ -1,0 +1,42 @@
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.exe
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.deps.json
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.runtimeconfig.json
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\ref\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerLib.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerLib.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\ref\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.exe
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.deps.json
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.runtimeconfig.json
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.runtimeconfig.dev.json
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\ref\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\Lab2_Faker.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerLib.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerLib.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\bin\Debug\net5.0-windows\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\ref\Lab2_Faker.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\Lab2_Faker\obj\Debug\net5.0-windows\Lab2_Faker.genruntimeconfig.cache

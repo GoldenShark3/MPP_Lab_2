@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab2_Faker/1.0.0": {
+        "dependencies": {
+          "FakerLib": "1.0.0"
+        },
+        "runtime": {
+          "Lab2_Faker.dll": {}
+        }
+      },
+      "FakerLib/1.0.0": {
+        "dependencies": {
+          "FakerPluginSupport": "1.0.0"
+        },
+        "runtime": {
+          "FakerLib.dll": {}
+        }
+      },
+      "FakerPluginSupport/1.0.0": {
+        "runtime": {
+          "FakerPluginSupport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2_Faker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakerPluginSupport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

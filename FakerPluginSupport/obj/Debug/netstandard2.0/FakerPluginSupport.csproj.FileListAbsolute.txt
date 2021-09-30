@@ -1,0 +1,20 @@
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\bin\Debug\netstandard2.0\FakerPluginSupport.deps.json
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\bin\Debug\netstandard2.0\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\bin\Debug\netstandard2.0\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\bin\Debug\netstandard2.0\FakerPluginSupport.deps.json
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\bin\Debug\netstandard2.0\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\bin\Debug\netstandard2.0\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerPluginSupport\obj\Debug\netstandard2.0\FakerPluginSupport.pdb

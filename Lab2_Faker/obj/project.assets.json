@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "FakerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FakerPluginSupport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FakerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FakerLib.dll": {}
+        }
+      },
+      "FakerPluginSupport/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FakerPluginSupport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FakerPluginSupport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FakerLib/1.0.0": {
+      "type": "project",
+      "path": "../FakerLib/FakerLib.csproj",
+      "msbuildProject": "../FakerLib/FakerLib.csproj"
+    },
+    "FakerPluginSupport/1.0.0": {
+      "type": "project",
+      "path": "../FakerPluginSupport/FakerPluginSupport.csproj",
+      "msbuildProject": "../FakerPluginSupport/FakerPluginSupport.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "FakerLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aleksey\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Aleksey\\Desktop\\BSUIR\\5 семестр\\СПП\\Lab_2\\Faker\\Lab2_Faker\\Lab2_Faker.csproj",
+      "projectName": "Lab2_Faker",
+      "projectPath": "C:\\Users\\Aleksey\\Desktop\\BSUIR\\5 семестр\\СПП\\Lab_2\\Faker\\Lab2_Faker\\Lab2_Faker.csproj",
+      "packagesPath": "C:\\Users\\Aleksey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aleksey\\Desktop\\BSUIR\\5 семестр\\СПП\\Lab_2\\Faker\\Lab2_Faker\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Aleksey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Aleksey\\Desktop\\BSUIR\\5 семестр\\СПП\\Lab_2\\Faker\\FakerLib\\FakerLib.csproj": {
+              "projectPath": "C:\\Users\\Aleksey\\Desktop\\BSUIR\\5 семестр\\СПП\\Lab_2\\Faker\\FakerLib\\FakerLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\Aleksey\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

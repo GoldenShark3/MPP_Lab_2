@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjCbAkHLwLvR2W22frbGh9Gc3KoRgSp76cgRzpAhS/rTOi/YOefSK3d8SawKffvZAA7TOy4fejGO81wh3BTh/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksey\\Desktop\\BSUIR\\5 семестр\\СПП\\Lab_2\\Faker\\FakerLib\\FakerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aleksey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

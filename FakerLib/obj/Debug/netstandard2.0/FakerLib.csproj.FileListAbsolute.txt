@@ -1,0 +1,26 @@
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\bin\Debug\netstandard2.0\FakerLib.deps.json
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\bin\Debug\netstandard2.0\FakerLib.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\bin\Debug\netstandard2.0\FakerLib.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\bin\Debug\netstandard2.0\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\bin\Debug\netstandard2.0\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.dll
+C:\Users\Aleksey\Desktop\mpp-faker-main\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\bin\Debug\netstandard2.0\FakerLib.deps.json
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\bin\Debug\netstandard2.0\FakerLib.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\bin\Debug\netstandard2.0\FakerLib.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\bin\Debug\netstandard2.0\FakerPluginSupport.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\bin\Debug\netstandard2.0\FakerPluginSupport.pdb
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.csproj.CopyComplete
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.dll
+C:\Users\Aleksey\Desktop\BSUIR\5 семестр\СПП\Lab_2\Faker\FakerLib\obj\Debug\netstandard2.0\FakerLib.pdb
